@@ -1,4 +1,4 @@
-# Powerful _and simple_ API :smirk:
+# Powerful _and simple_ API
 
 A Simple API project using [Symfony Framework 5](https://symfony.com/what-is-symfony) and [API Platform](https://symfony.com/projects/apiplatform) bundle.
 
@@ -7,6 +7,9 @@ A Simple API project using [Symfony Framework 5](https://symfony.com/what-is-sym
 Write a simple API (using at least Symfony 4.2) for showing a list of users, and creating a new user.
 
 The goal is to be able to swap out the data source for users without having to touch any of the code that uses the data source and returns the response and also provide documentation for consuming the API.
+
++ Added a [Unique](https://symfony.com/doc/current/reference/constraints/Unique.html) constraint for 'email' field
++ Added a [NotBlank](https://symfony.com/doc/current/reference/constraints/NotBlank.html) constraint for 'first name' and 'last name' fields.
 
 ## :muscle: Try it out 
 
