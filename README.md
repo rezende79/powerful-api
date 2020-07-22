@@ -8,8 +8,8 @@ Write a simple API (using at least Symfony 4.2) for showing a list of users, and
 
 The goal is to be able to swap out the data source for users without having to touch any of the code that uses the data source and returns the response and also provide documentation for consuming the API.
 
-+ Added a [Unique](https://symfony.com/doc/current/reference/constraints/Unique.html) constraint for 'email' field
-+ Added a [NotBlank](https://symfony.com/doc/current/reference/constraints/NotBlank.html) constraint for 'first name' and 'last name' fields.
++ _(plus)_ Added a [Unique](https://symfony.com/doc/current/reference/constraints/Unique.html) constraint for 'email' field
++ _(plus)_ Added a [NotBlank](https://symfony.com/doc/current/reference/constraints/NotBlank.html) constraint for 'first name' and 'last name' fields.
 
 ## :muscle: Try it out 
 
