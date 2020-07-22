@@ -15,7 +15,7 @@ The goal is to be able to swap out the data source for users without having to t
 
 Play with this API here: [https://api.rezehnde.com/](https://api.rezehnde.com/)
 
-## :triangular_ruler: Built With 
+## :triangular_ruler: Built with 
 
 * [Symfony 5](https://symfony.com/what-is-symfony) - PHP Framework
 * [Composer](https://getcomposer.org/) - A Dependency Manager for PHP
