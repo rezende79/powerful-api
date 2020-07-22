@@ -29,4 +29,4 @@ Play with this API here: [https://api.rezehnde.com/](https://api.rezehnde.com/)
 
 * Implement a authentication method to consume the API
 * Include Unit Tests
-* CI/CD implemente using Git on a Shared Host with cPanel
+* CI/CD using Git on a Shared Host with cPanel
